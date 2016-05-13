@@ -1,0 +1,11 @@
+h1{
+	color:hotpink;
+}
+
+.col-3{
+	float:left;
+	width:20%;
+}
+.clear{
+	clear:both;
+}
